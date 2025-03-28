@@ -1,0 +1,8 @@
+function multiply(x:number,y: number){
+  return x*y;
+}
+
+
+Expect multiply to return the product of two numbers.
+Expect multiply(5,10) to return 50 as a number.
+Expect x and y are number when passed into function multiply
