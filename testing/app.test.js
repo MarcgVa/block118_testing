@@ -20,5 +20,4 @@ describe('concatOdds', () => {
   it('Should return a sorted array of the odd numbers in the first and second arguments', () => {
     expect(concatOdds([5,3,2,1],[9,8,7,])).toStrictEqual([1,3,5,7,9])
   })
-
 })
