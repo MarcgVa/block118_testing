@@ -15,4 +15,9 @@ Functional Tests:
    - Offers the ability to create an account by supplying a username and password
    - Offer the ability to create an account by linking Google or Apple accounts
 3. Account created
-   - User now 
+   - User can see account information
+     - User can now view order history
+     - Add credit card info
+     - Remove credit card info
+     - Change Display Name
+     - Change username if not linked to a Google or Apple account
